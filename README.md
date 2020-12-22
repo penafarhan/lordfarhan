@@ -18,7 +18,7 @@
 <br/>
 
 ## If you like my projects, just chill with me by clicking button below :
-<a href="https://www.buymeacoffee.com/lordfarhan" target="_blank"><img src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" alt="Buy Me A Coffee" style="height: 10px !important;width: 10px !important;" data-name="bmc-button" data-slug="lordfarhan" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></a>
+<a href="https://www.buymeacoffee.com/lordfarhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <table>
   <tr>
     <!-- <th>Trakteer.id</th> -->
