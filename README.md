@@ -18,7 +18,7 @@
 <br/>
 
 ## If you like my Apps you can send me Donation on :
-<a href="https://www.buymeacoffee.com/lordfarhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 10px !important;" ></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="lordfarhan" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 <table>
   <tr>
     <!-- <th>Trakteer.id</th> -->
