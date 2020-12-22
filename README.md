@@ -19,18 +19,3 @@
 
 ## If you like my projects, just chill with me by clicking button below :
 <a href="https://www.buymeacoffee.com/lordfarhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<table>
-  <tr>
-    <!-- <th>Trakteer.id</th> -->
-    <th>Paypal.me</th>
-  </tr>
-  <tr>
-     <!-- <td>
-       <a href="https://trakteer.id/lordfarhan" target="_blank"><img src="https://i.ibb.co/ZWTfPPv/myqr.png" alt="Send me donation"></img></a><br/>
-<a href="https://trakteer.id/lordfarhan" style="background: rgba(191,53,46,.7); text-align: center; color: white; box-sizing: border-box; max-width: 220px; padding: 5px; line-height: 1.25em; border-radius: .2em; font-size: .8em;">trakteer.id/lordfarhan</a>
-    </td> -->
-    <td>
-      <a href="https://paypal.me/lordfarhan" target="_blank"><img src="https://i.ibb.co/Mff5X7J/QRickit-3.png" alt="Send me donation" style="width:200px !important;height:200px !important"></img></a>
-    </td>
-  </tr>
-</table>
