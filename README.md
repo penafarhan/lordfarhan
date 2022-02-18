@@ -1,6 +1,3 @@
-
-### Hi, Im Farhan 👋
-
 <!--
 **lordfarhan/lordfarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello World! I'am Dery <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi, Farhan's Here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ![profile views](https://gpvc.arturio.dev/lordfarhan)
 
@@ -35,7 +32,6 @@ Currently I work mostly in android app development using Kotlin and web developm
 <a href="https://www.instagram.com/farhanalrosyid" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.twitter.com/penafarhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/lordfarhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.lordfarhan.me" target="_blank"><img src="https://img.shields.io/badge/web-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" alt="Web"></a>
 
 <!-- 
 ## My Play Ground
