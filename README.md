@@ -27,7 +27,7 @@ Currently I work mostly in android app development using Kotlin and web developm
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarhan&layout=compact)
 
-### 💬 Get in touch with me
+### Get in touch with me
 
 <a href="https://www.instagram.com/farhanalrosyid" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.twitter.com/penafarhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -50,5 +50,7 @@ Currently I work mostly in android app development using Kotlin and web developm
 
 <br/> -->
 
-### If you like my projects, just chill with me by clicking button below :
+### BTW, you can also visit my personal website here: 
+<a href="https://www.lordfarhan.me" target="_blank">Lord Farhan</a>
+### Or if you like my projects, just chill with me by clicking button below:
 <a href="https://www.buymeacoffee.com/lordfarhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
